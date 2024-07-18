@@ -2,7 +2,7 @@
 
 👀 Estou interessado em desenvolver soluções para pessoas e organizações.
 
-🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
+🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e C.
 
 💞️ Acredito que a tecnologia seja uma excelente ferramenta de transformação social e pode ser utilizada para promover a diversidade, equidade, inclusão e reduzir a desigualdade.
 
